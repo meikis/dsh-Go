@@ -1200,6 +1200,14 @@
         }
       }
     },
+    "zzzzzzzzzzzz-plan-pending-restore.diff": {
+      "0.2.2-rc.1": {
+        "node_modules/@deepseek-ai/dsh-plan-mode/lib/index.js": {
+          "after": "e6326e2ac1756bdc947a3690f1e212a6b6b680c3c76ec40468a3d7b63af0608a",
+          "before": "5f9ee37cd7bc3922c05148504700ac25eb2179099d494c5721380cd71363ced0"
+        }
+      }
+    },
     "zzzzzzzzzzzz-plugin-update-hmr-selection.diff": {
       "0.2.2-rc.1": {
         "node_modules/@deepseek-ai/dsh-plugin-manager/lib/index.js": {
